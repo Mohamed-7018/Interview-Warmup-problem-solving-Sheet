@@ -1,4 +1,3 @@
-# ICPC-NewComers-Sheet
 
 
 <h1 align="center">
