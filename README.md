@@ -4,8 +4,10 @@
   <img src="https://user-images.githubusercontent.com/80456446/140647786-f3cc8d5e-2dc2-4ad0-8200-d36f39061763.gif" width="40" height="30"  /> Interview Warmup [problem solving] Sheet<img src="https://user-images.githubusercontent.com/80456446/140647786-f3cc8d5e-2dc2-4ad0-8200-d36f39061763.gif" width="50" height="30"  />
   </h1>
 
-  <img src="https://media0.giphy.com/media/Ztzt8zhmmpVPUiSNMX/200.gif" align="left" width="270" hspace="5" vspace="10">
+  <img  src="https://media0.giphy.com/media/Ztzt8zhmmpVPUiSNMX/200.gif" align="left" width="270" hspace="0" vspace="10">
 
+
+<!--STARTS_HERE_QUOTE_README-->
 
 “ Programming is boring”
 Think of it, you just keep writing a series of code to repeat the same thing over and over. So learning new programming languages is not the target. We don’t say you shouldn’t learn a new programming language but have a purpose.
@@ -14,11 +16,39 @@ Think of it, you just keep writing a series of code to repeat the same thing ove
 Think of it, programming is like a pencil. You can use a pencil in writing a story, drawing beautiful pictures, Sketching art pieces and so many other wonderful things, it can only be limited by your imagination.
 
 Same like pencil, programming is just code. You can use it to use many wonderful things by the tool, it can only be limited by your imagination. So “ Don’t be a programmer be a problem solver”
-
+<!--ENDS_HERE_QUOTE_README-->
 <br/></br>
 
+<h1 align="center">
+  <img src="https://user-images.githubusercontent.com/80456446/140647786-f3cc8d5e-2dc2-4ad0-8200-d36f39061763.gif" width="50" height="30"  />Description<img src="https://user-images.githubusercontent.com/80456446/140647786-f3cc8d5e-2dc2-4ad0-8200-d36f39061763.gif" width="50" height="30"  />
+  </h1> 
+The repo is a solutions to the problems in Dr Mostafa Saad (Interview warmup sheet), I started to solve the sheet because I saw the good feedbacks from the people who solved this sheet.
 
 
+<h1 align="center">
+  <img src="https://user-images.githubusercontent.com/80456446/140647786-f3cc8d5e-2dc2-4ad0-8200-d36f39061763.gif" width="50" height="30"  /> About the sheet<img src="https://user-images.githubusercontent.com/80456446/140647786-f3cc8d5e-2dc2-4ad0-8200-d36f39061763.gif" width="50" height="30"  />
+  </h1>
+This google sheet is created by Dr Mostafa Saad Ibrahim for guys targeting the market needs and interviews
+
+
+This is a very small sheet and intended in parallel to my Udemy courses or a comparable decent effort.
+
+
+Currenet Version V2.0 :  [Sheet Link](https://docs.google.com/spreadsheets/d/1ClmoHFMqQKOHinRhrId42sbofQ0T0IyaFzZcEcVvXbU/edit#gid=593476609)
+
+
+
+
+                 
+
+
+This is read-access only file. Read line 19 to create your OWN COPY.			
+
+You can contact with the sheet author  feom this email (mostafa.saad.fci@gmail.com) OR by visiting his site (https://sites.google.com/site/mostafasibrahim/)
+
+
+
+  <br/>  <br/>
 <h1 align="center">
   <img src="https://user-images.githubusercontent.com/80456446/140647786-f3cc8d5e-2dc2-4ad0-8200-d36f39061763.gif" width="50" height="30"  /> Codeforces<img src="https://user-images.githubusercontent.com/80456446/140647786-f3cc8d5e-2dc2-4ad0-8200-d36f39061763.gif" width="50" height="30"  />
   </h1>
@@ -26,16 +56,7 @@ Same like pencil, programming is just code. You can use it to use many wonderful
 Codeforces is a website that hosts competitive programming contests.It is maintained by a group of competitive programmers from ITMO University led by Mikhail Mirzayanov.Since 2013, Codeforces claims to surpass Topcoder in terms of active contestants. As of 2018, it has over 600,000 registered users. Codeforces along with other similar websites are used by top sport programmers like Gennady Korotkevich, Petr Mitrichev, Benjamin Qi and Makoto Soejima, and by other programmers interested in furthering their careers.
 
 
-<h1 align="center">
-  <img src="https://user-images.githubusercontent.com/80456446/140647786-f3cc8d5e-2dc2-4ad0-8200-d36f39061763.gif" width="50" height="30"  /> About the sheet<img src="https://user-images.githubusercontent.com/80456446/140647786-f3cc8d5e-2dc2-4ad0-8200-d36f39061763.gif" width="50" height="30"  />
-  </h1>
 
-This google sheet is created by ICPC Assiut University Community For Newcomers Training .
-
-The sheet is topic based problems . 
-The sheet link (https://docs.google.com/spreadsheets/d/1ClmoHFMqQKOHinRhrId42sbofQ0T0IyaFzZcEcVvXbU/edit#gid=593476609)
-
-  <br/>  <br/>
 <h1 align="center">
   <img src="https://user-images.githubusercontent.com/80456446/140647786-f3cc8d5e-2dc2-4ad0-8200-d36f39061763.gif" width="50" height="30"  /> Reach me at <img src="https://user-images.githubusercontent.com/80456446/140647786-f3cc8d5e-2dc2-4ad0-8200-d36f39061763.gif" width="50" height="30"  />
   </h1>
